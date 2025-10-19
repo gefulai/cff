@@ -15,6 +15,7 @@
     <modules>
         <module>cff-cache-queue-spring-boot-starter</module>
         <module>cff-common-spring-boot-starter</module>
+        <module>cff-kafka-producer-spring-boot-starter</module>
     </modules>
 
     <properties>
